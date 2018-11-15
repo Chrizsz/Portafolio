@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Christian Gmz</title>
+    <!-- Hoja de estilos bootstrap -->
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+
+    <!-- hoja de estilo bootstrap v4 -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<!--
+    <style>
+      body{background-color: red;}
+      nav{background-color: green;}
+    </style> -->
+
+  </head>
+
+  <body class="bg-dark">
+    <!-- Navbar de arriba -->
+    <nav class="navbar  bg-secondary text-white">
+      <div class="col-md-12">
+        <a class="navbar-brand">Portafolio Profesional</a>
+      </div>
+    </nav>
+ <!-- Fin de navbar -->
+  <section class="content">
+    <div class="container-fluid">
+    <div class="row-clearfix">
+      <div class="col-md-12">
+        <div class="card bg-secondary text-white">
+           <!-- Encabezado -->
+          <div class="header">
+            <div class="row-clearfix">
+              <div class="col-md-3">
+                <!-- foto --><h1>Foto</h1>
+              </div>
+            <div class="col-md-6">
+              <h1>Christian Alberto Gomez Alvirde</h1>
+            </div>
+            </div>
+          </div>
+          <!-- Fin de encabezado -->
+     <hr>
+       <div class="body">
+    <div class="row-clearfix">
+   <div class="col-md-6">
+    <h2>Inclinaciones</h2>
+   </div>
+   <div class="col-md-6">
+     <h2>Disgustos</h2>
+   </div>
+
+
+    </div>
+       </div>
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+</div>
+  </section>
+
+
+
+
+
+   <!-- scripts de bootstrap -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+</html>
